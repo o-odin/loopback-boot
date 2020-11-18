@@ -1,3 +1,8 @@
+2020-11-18, Version 2.28.1
+==========================
+
+ * models tenant fork (Alexandr Tsedilkin)
+
 2019-03-26, Version 2.28.0
 ==========================
 
