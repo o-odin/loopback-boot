@@ -1,6 +1,6 @@
 {
-  "name": "loopback-boot",
-  "version": "2.28.0",
+  "name": "@o_odin/loopback-boot",
+  "version": "2.28.1",
   "description": "Convention-based bootstrapper for LoopBack applications",
   "keywords": [
     "StrongLoop",
